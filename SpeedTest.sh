@@ -8,7 +8,7 @@ URLs=("http://test.copaco.com.py/click.test" "http://speedtest.reliableservers.c
 
 SpeedTest(){
         echo "Inicializando el SpeedTest Seleccionado..."
-        wget -O /dev/null ${URLs[$1]}
+        curl -o /dev/null ${URLs[$1]}
         echo "SpeedTest Finalizado."
 }
 
