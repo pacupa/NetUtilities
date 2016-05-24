@@ -1,5 +1,7 @@
 #!/bin/bash
+#
 #AUTHOR: Pablo Acuña
+#REPOSITORY: https://github.com/pacupa/speedtest/
 #
 
 URLs=("http://test.copaco.com.py/click.test" "http://speedtest.reliableservers.com/1GBtest.bin" "http://speedtest.tele2.net/1GB.zip" "http://ipv4.download.thinkbroadband.com/1GB.zip" )
