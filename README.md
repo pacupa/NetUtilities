@@ -5,6 +5,6 @@
 # Instalación
 
 ## Ejecutar:
-chmod 750 install.sh
-./install.sh
+- chmod 750 install.sh
+- ./install.sh
 
