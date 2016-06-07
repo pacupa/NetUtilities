@@ -1,11 +1,10 @@
-# speedtest
-Utilidad básica de SpeedTest desde línea de comandos.  (BASH)
+# Utilidades de Red
+ - Utilidad básica de SpeedTest desde línea de comandos.  (BASH)
+ - Reporte resumido de conexiones de red
 
 # Instalación
 
-## Paso 1
-chmod 755 SpeedTest.sh
-## Paso 2 
-./SpeedTest.sh
-
+## Ejecutar:
+chmod 750 install.sh
+./install.sh
 
